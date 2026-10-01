@@ -150,7 +150,7 @@
     <!-- Main Banner -->
     <section class="banner">
 
-        <h1>Welcome Online shopping cart- SE LAB</h1>
+        <h1>Welcome EASE shopping cart- Nikitha</h1>
 
         <p>
             Your simple and convenient online shopping destination.
