@@ -150,7 +150,7 @@
     <!-- Main Banner -->
     <section class="banner">
 
-        <h1>Welcome to Online shopping cart- Nikitha</h1>
+        <h1>Welcome AMAZON FLIPKART</h1>
 
         <p>
             Your simple and convenient online shopping destination.
